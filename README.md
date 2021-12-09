@@ -1,8 +1,4 @@
 # site
 Первый сайт на github)
-# h1
-## h2
-### h3
-#### h4
-##### h5
-###### h6
+# SMESHNII PHOTO
+![alt](1.jfif)
